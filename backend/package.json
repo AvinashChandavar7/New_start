@@ -5,7 +5,8 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node index.js",
-    "dev1": "node index2.js"
+    "dev1": "node index2.js",
+    "dev2": "node server2.js"
   },
   "keywords": [],
   "author": "",
